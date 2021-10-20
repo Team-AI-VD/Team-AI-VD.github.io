@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>Introduction</title>
+    <title>Introduction t0 AI-VD</title>
     <link href="/2021/10/18/%E4%BB%A5%E5%A3%B0%E7%BB%98%E5%BD%B1/"/>
     <url>/2021/10/18/%E4%BB%A5%E5%A3%B0%E7%BB%98%E5%BD%B1/</url>
     
-    <content type="html"><![CDATA[<p>This is a program for the blind.We believe AI technology empowers the disabled.<br>In this project,we realize automatic description of video frame based on deep learning,which is very popular in AI researches.</p>]]></content>
+    <content type="html"><![CDATA[<p>This is a program for the blind.</p><p>We believe AI technology empowers the disabled.</p><p>In this project,we realize automatic description of video frame based on deep learning,which is very popular in AI researches.</p><p>AI-VD is abbreviation of “Artificial intelligence-video description”.</p>]]></content>
     
     
     

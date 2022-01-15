@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>Introduction to AI-VD</title>
-    <link href="/2021/10/18/%E4%BB%A5%E5%A3%B0%E7%BB%98%E5%BD%B1/"/>
-    <url>/2021/10/18/%E4%BB%A5%E5%A3%B0%E7%BB%98%E5%BD%B1/</url>
+    <title>初识AI-VD</title>
+    <link href="/2022/01/15/%E5%88%9D%E8%AF%86AI-VD/"/>
+    <url>/2022/01/15/%E5%88%9D%E8%AF%86AI-VD/</url>
     
-    <content type="html"><![CDATA[<p><strong>This is a program for the blind.</strong></p><p><strong>We believe AI technology empowers the disabled.</strong></p><p>In this project,we realize automatic description of video frame based on deep learning,which is very popular in AI researches.</p><p>AI-VD is abbreviation of “Artificial intelligence-video description”.</p><h2 id=""><a href="#" class="headerlink" title=""></a><img src="https://tva3.sinaimg.cn/large/006x54ozly1gvm42pgb1kg60hs0a878a02.gif" alt="example of our model" title="example of our model"></h2>]]></content>
+    <content type="html"><![CDATA[]]></content>
     
     
     
@@ -17,11 +17,11 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2021/10/17/hello-world/"/>
-    <url>/2021/10/17/hello-world/</url>
+    <title>Introduction to AI-VD</title>
+    <link href="/2021/10/18/AI-VD%E7%9A%84%E8%AF%9E%E7%94%9F/"/>
+    <url>/2021/10/18/AI-VD%E7%9A%84%E8%AF%9E%E7%94%9F/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="🤗“AI-VD”的由来"><a href="#🤗“AI-VD”的由来" class="headerlink" title="🤗“AI-VD”的由来"></a>🤗<font color=DeepSkyBlue>“AI-VD”的由来</font></h3><p><strong>AI-VD</strong>是 <em>“Artificial intelligence-video description”</em> 的缩写，也即是<strong>人工智能技术实现视频描述</strong>。</p><h3 id="🤩“AI-VD”的初衷"><a href="#🤩“AI-VD”的初衷" class="headerlink" title="🤩“AI-VD”的初衷"></a>🤩<font color=DarkTurquoise>“AI-VD”的初衷</font></h3><ul><li><p><strong>“AI-VD”项目以视障群体为出发点</strong>👨‍🦯</p></li><li><p><strong>我们相信科技赋能助残</strong>💡</p></li></ul><p>​        本项的目的是设计一款给视障群体看视频的小程序。它最大的意义是为视障人群提供充观看视频的机会，同时满足视障人群对于互联网的使用需求，丰富视障人群的精神生活。在信息时代，对于视障群体来说，无法像正常人一样使用互联网和智能电子设备成为了数字鸿沟不断加深的重要原因，而数字鸿沟会导致信息的阻滞、贫富的悬殊、交流的断裂与共情的缺失。互联网面向大众，也应当是一个包容全民的地方，虚拟的网络世界应当为他们打开通道。无障碍视频的实现正是一把应当交给他们的通向虚拟世界的钥匙。</p><p>​        在这个项目中，我们实现了基于深度学习的视频描述自动生成任务。这是“AI-VD”的运行流程简图。</p><p><img src="https://kamino-img.oss-cn-beijing.aliyuncs.com/202110241622323.gif" alt="模型流程图"></p>]]></content>
     
     
     
